@@ -4,5 +4,14 @@
         "https://github.com/am-kazempour/digi_data/raw/main/first_slide_img/2.png",
         "https://github.com/am-kazempour/digi_data/raw/main/first_slide_img/3.png",
         "https://github.com/am-kazempour/digi_data/raw/main/first_slide_img/4.png"
-    ]
+    ],
+	"icon_img_link":[
+		"https://github.com/am-kazempour/digi_data/raw/main/icon_img/1.png",
+		"https://github.com/am-kazempour/digi_data/raw/main/icon_img/2.png",
+		"https://github.com/am-kazempour/digi_data/raw/main/icon_img/3.png",
+		"https://github.com/am-kazempour/digi_data/raw/main/icon_img/4.png",
+		"https://github.com/am-kazempour/digi_data/raw/main/icon_img/5.png",
+		"https://github.com/am-kazempour/digi_data/raw/main/icon_img/6.png",
+		"https://github.com/am-kazempour/digi_data/raw/main/icon_img/7.png",
+	]
 }
